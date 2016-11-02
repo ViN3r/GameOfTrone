@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/C:\\Users\\paulo\\Desktop\\GameOfTrone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/C:\\Users\\paulo\\Desktop\\GameOfTrone\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/C:\\Users\\paulo\\Desktop\\GameOfTrone\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/C:\\Users\\paulo\\Desktop\\GameOfTrone\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]
