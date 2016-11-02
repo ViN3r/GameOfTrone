@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#000000">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Game of Trone !"
+        android:id="@+id/title"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="2"
+        android:shadowColor="#000000"
+        android:singleLine="true"
+        android:textColor="#ffffff"
+        android:textSize="42dp"
+        android:textAlignment="center"/>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="2"
+        android:src="@drawable/got"
+        android:background="#00ffffff"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.51"
+        android:background="#000000">
+
+        <EditText
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/logPseudo"
+            android:layout_gravity="center_horizontal"
+            android:text="Pseudo"
+            android:gravity="center_horizontal"
+            android:background="#ffffff"
+            android:layout_marginBottom="15dp"
+            android:cursorVisible="true"/>
+
+        <EditText
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/logSlogan"
+            android:layout_gravity="center_horizontal"
+            android:text="Slogan"
+            android:gravity="center_horizontal"
+            android:background="#ffffff"
+            android:layout_marginBottom="15dp"
+            android:cursorVisible="true"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Connexion"
+            android:id="@+id/buttonSave"
+            android:layout_gravity="center_horizontal"
+            android:onClick="onConnectAction"/>
+    </LinearLayout>
+</LinearLayout>

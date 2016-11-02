@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/C:\\Users\\paulo\\Desktop\\GameOfTrone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\background.mp3",
+        "source": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/C:\\Users\\paulo\\Desktop\\GameOfTrone\\app\\src\\main\\res\\raw\\background.mp3"
+    },
+    {
+        "merged": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/C:\\Users\\paulo\\Desktop\\GameOfTrone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\attack.mp3",
+        "source": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/C:\\Users\\paulo\\Desktop\\GameOfTrone\\app\\src\\main\\res\\raw\\attack.mp3"
+    },
+    {
+        "merged": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/app/build/intermediates/res/merged/debug/raw/background.mp3",
+        "source": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/app/src/main/res/raw/background.mp3"
+    },
+    {
+        "merged": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/C:\\Users\\paulo\\Desktop\\GameOfTrone\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/C:\\Users\\paulo\\Desktop\\GameOfTrone\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/app/build/intermediates/res/merged/debug/raw/attack.mp3",
+        "source": "/home/ervin/Documents/ecole/master/sar/ppm/GameOfTrone/app/src/main/res/raw/attack.mp3"
+    }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="armes">
+        <item>Hache - 4 dégats - portée: 200m</item>
+        <item>Arc - 1 dégat - portée: 1000m</item>
+        <item>Masse - 3 dégats - portée: 500m</item>
+        <item>Epée - 4 dégats - portée: 200m</item>
+        <item>Fourchette - 1 dégat - portée: 100m</item>
+        <item>Lapin - 1 dégat - portée: 150m</item>
+        <item>Stylo - 1 dégat - portée: 100m</item>
+        <item>Sceau - 2 dégats - portée: 200m</item>
+        <item>DebugHammer - 2 dégats - portée: 99999m</item>
+    </string-array>
+</resources>
